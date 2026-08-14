@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+
+int main()
+{
+    int array[5] = {1, 2, 3, 4, 5};
+
+    int *p = &array[2];
+
+    int a = *p + 2;
+
+    printf("O valor de a e %d", a);
+    
+    return 0;
+}
+

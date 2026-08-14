@@ -1,0 +1,3 @@
+Joao Pedro,55,60
+Maria Clara Souza,90,85
+Lucas,75,75
